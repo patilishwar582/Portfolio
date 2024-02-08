@@ -1,0 +1,155 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/realtypass.png",
+            "title": "RealtyPass",
+            "bodyText": "- Property management system for sale and buying properties.\n -  Where admin can add multiple contacts, leaders, transitions, notes, events, offices, tasks, reports, documents, mailbox, settings, Update user Profile, users and teams.\n - Also manage users like Admin, SuperAdmin, Manager, Team Leader, Agent, Guest.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://realtypass.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Redux",
+                "Apollo GraphQL",
+                "Semantic UI",
+                "Nodejs",
+                "MongoDB"
+            ]
+        },
+        {
+            "image" : "images/projects/ubme.png",
+            "title": "Ubme",
+            "bodyText": "- Event management system. It can manage gallery and various user posts regarding events.\n - It allows to communicate people regarding events.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://www.ubme.com"
+                }
+            ],
+            "tags" : [
+                "React Bootstrap",
+                "React",
+                "Nodejs",
+                "MongoDB"
+            ]
+        },
+        {
+            "image" : "images/projects/elevationai.png",
+            "title": "Elevation AI",
+            "bodyText": "- The definitive suite of apps for taking businesses, teams, and investor capital forward.\n - All the resources needed in one place.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://elevationai.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Apollo GraphQL",
+                "Reactstrap",
+                "Bootstrap",
+                "Carbon Design System",
+                "Boilerplate",
+                "Redux",
+                "Rest API",
+                "Nodejs",
+                "Postgresql"
+            ]
+        },
+        {
+            "image" : "images/projects/capital.png",
+            "title": "Capital",
+            "bodyText": "- For businesses that have hit their stride, the Capital app provides the next stage of fuel.\n - Our early growth-focused financing supports teams that are ready for further expansion.\n - More than just a funding source, we are a partner in your journey, offering flexible, non-dilutive capital options that scale with you.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://capital.elevationai.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Apollo GraphQL",
+                "Reactstrap",
+                "Bootstrap",
+                "Carbon Design System",
+                "Boilerplate",
+                "Redux",
+                "Rest API",
+                "Nodejs",
+                "Postgresql"
+            ]
+        },
+        {
+            "image" : "images/projects/invest.png",
+            "title": "Invest",
+            "bodyText": "- Invest in exclusive revenue-generating businesses with a unique choice of profit-sharing and equity growth investments.\n - Find companies that have demonstrated momentum and are capitalizing their growth.\n - Invest with the confidence of trusted data for every single investment.\n - Realize equity gains by liquidating investments directly from the app.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://invest.elevationai.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Apollo GraphQL",
+                "Reactstrap",
+                "Bootstrap",
+                "Carbon Design System",
+                "Boilerplate",
+                "Redux",
+                "Rest API",
+                "Nodejs",
+                "Postgresql"
+            ]
+        },
+        {
+            "image" : "images/projects/automate.png",
+            "title": "Automate",
+            "bodyText": "- Let technology do the heavy lifting. Automate offers intelligent solutions for your business operations.\n - Seamlessly integrate your tools, visualize data with comprehensive dashboards, optimize workflows with AI, and enable crucial human input where necessary.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://automate.elevationai.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Apollo GraphQL",
+                "Reactstrap",
+                "Bootstrap",
+                "Carbon Design System",
+                "Boilerplate",
+                "Redux",
+                "Rest API",
+                "Nodejs",
+                "Postgresql"
+            ]
+        },
+        {
+            "image" : "images/projects/work.png",
+            "title": "Work",
+            "bodyText": "- Transform the way your business operates with on-demand talent, streamlined with AI-Powered tools.\n - From real-time sessions with freelancers to handing off complex projects to capable teams, grow and scale your business effectively on a single platform.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://work.elevationai.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Apollo GraphQL",
+                "Reactstrap",
+                "Bootstrap",
+                "Carbon Design System",
+                "Boilerplate",
+                "Redux",
+                "Rest API",
+                "Nodejs",
+                "Postgresql"
+            ]
+        }
+    ]
+}

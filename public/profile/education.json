@@ -1,0 +1,29 @@
+{
+    "education":[
+       
+        {
+            "title": "2018",
+            "cardTitle": "M.C.A",
+            "cardSubtitle":"Gujarat Technological University",
+            "cardDetailedText": "Marks - 80%"
+        },
+        {
+            "title": "2012",
+            "cardTitle": "B.C.A",
+            "cardSubtitle":"Veer Narmad South Gujarat University",
+            "cardDetailedText": "Marks - 75%"
+        },
+        {
+            "title": "2012",
+            "cardTitle": "H.S.C",
+            "cardSubtitle":"Gujarat State Board",
+            "cardDetailedText": "Marks - 68%"
+        },
+        {
+            "title": "2010",
+            "cardTitle": "S.S.C",
+            "cardSubtitle":"Gujarat State Board",
+            "cardDetailedText": "Marks - 55%"
+        }
+    ]
+}

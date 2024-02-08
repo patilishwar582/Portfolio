@@ -1,0 +1,31 @@
+{
+    "experiences": [
+        {
+            "title": "React Js Developer",
+            "subtitle": "La Net Team Software Solutions Pvt. LTD",
+            "workType": "Full-time",
+            "workDescription": [
+                "Experience :- 1-Year"
+            ],
+            "dateText": "01/01/2018"
+        },
+        {
+            "title": "React Js Developer",
+            "subtitle": "LogicWind Pvt Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+              "Experience :- 1-Year 10 Months"
+            ],
+            "dateText": "12/11/2018"
+        },
+        {
+            "title": "Sr. React Js Developer",
+            "subtitle": "Atologist Infotech Pvt Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+               "Experience :- 3-Years 2 Months"
+            ],
+            "dateText": "14/09/2020"
+        }
+    ]
+}
