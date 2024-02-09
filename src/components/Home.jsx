@@ -7,7 +7,7 @@ import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
   nameStyle: {
-    fontSize: '5em',
+    fontSize: '3em',
   },
   inlineChild: {
     display: 'inline-block',
@@ -44,13 +44,16 @@ function Home() {
               loop: true,
               autoStart: true,
               strings: data?.roles,
+              fontSize: 10,
             }}
           />
         </div>
         <Social />
       </div>
     </Fade>
-  ) : <FallbackSpinner />;
+  ) : (
+    <FallbackSpinner />
+  );
 }
 
 export default Home;

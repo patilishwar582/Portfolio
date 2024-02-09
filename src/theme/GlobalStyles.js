@@ -11,6 +11,12 @@ const GlobalStyles = createGlobalStyle`
         left: calc(32.7% + 6px);
       }
      }
+
+     @media (max-width: 768px) {
+      .Typewriter__wrapper {
+        font-size: 1.5em;
+      }
+     }
   }
 `;
 
