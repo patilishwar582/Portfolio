@@ -5,12 +5,12 @@
             "title": "Languages & Databases",
             "items" : [
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
                 },
                 {
                     "icon": "images/skills/mysql.png",
@@ -33,8 +33,33 @@
                     "title": "React Typescript"
                 },
                 {
+                    "icon": "images/skills/react.png",
+                    "title": "React Hook"
+                },
+                {
+                    "icon": "images/skills/redux.png",
+                    "title": "React Redux"
+                },
+                {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                }
+            ]
+        },
+        {
+            "title": "API Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/api.png",
+                    "title": "Rest API"
+                },
+                {
+                    "icon": "images/skills/apollo-graphql.png",
+                    "title": "Apollo Graphql"
+                },
+                {
+                    "icon": "images/skills/api.png",
+                    "title": "Socket IO"
                 }
             ]
         },
@@ -58,10 +83,6 @@
                     "title": "Bootstrap"
                 },
                 {
-                    "icon": "images/skills/redux.png",
-                    "title": "Redux"
-                },
-                {
                     "icon": "images/skills/storybook.png",
                     "title": "Storybook"
                 },
@@ -72,6 +93,10 @@
                 {
                     "icon": "images/skills/semantic.png",
                     "title": "Semantic UI"
+                },
+                {
+                    "icon": "images/skills/styled-components.png",
+                    "title": "Styled Components"
                 }
             ]
         },
