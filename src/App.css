@@ -21,6 +21,10 @@
   letter-spacing: .1em;
   text-indent: .3em;
   border-bottom: 3px solid transparent;
+  
+  @media (max-width: 768px) {
+    margin-bottom: 10px;
+  }
 }
 
 .navbar__link::after {
